@@ -3,6 +3,9 @@ export const blogPosts = [
     slug: "blog1",
     title: "ບໍລິການອະສັງຫາລິມະຊັບ",
     titleEn: "Real Estate Services",
+    image: "/blog-real-estate.jpg",
+    imageAlt: "ຮູບໂຄງການອະສັງຫາລິມະຊັບ ແລະ ການວິເຄາະຕະຫຼາດ",
+    imageAltEn: "Residential real estate and market analysis",
     content:
       "ບໍລິການໃຫ້ຄຳປຶກສາ, ຊື້-ຂາຍ, ໃຫ້ເຊົ່າ ແລະ ບໍລິຫານຈັດການອະສັງຫາລິມະຊັບຢ່າງມືອາຊີບ. ຄັດດສັນໂຄງການ ແລະ ທຳເລທີ່ມີສັກກະຍະພາບສູງ ເພື່ອຕອບໂຈດຜູ້ຢູ່ອາໄສ ແລະ ການລົງທຶນທີ່ຄຸ້ມຄ່າ. ພ້ອມດຸແລທຸກຂັ້ນຕອນດ້ວຍຄວາມໂປ່ງໃສ, ການໂອນມອບກຳມະສິດ, ໃສ່ໃຈໃນທຸກລາຍລະອຽດ ເພື່ອໃຫ້ທ່ານໄດ້ຮັບຜົນປະໂຫຍດສູງສຸດ.",
     contentEn:
@@ -12,6 +15,9 @@ export const blogPosts = [
     slug: "blog2",
     title: "ບໍລິການນຳເຂົ້າສິນຄ້າຈາກຈີນ",
     titleEn: "China Sourcing & Import Services",
+    image: "/blog-import.jpg",
+    imageAlt: "ຮູບການຂົນສົ່ງ ແລະ ການຄ້າລະຫວ່າງປະເທດ",
+    imageAltEn: "International import and export logistics",
     content:
       "ບໍລິການນຳເຂົ້າສິນຄ້າຈາກຈີນຜ່ານເເອັບ  New-Linker ຕອບໂຈດທຸກຄວາມຕ້ອງການຂອງທຸລະກິດ ແລະ ຮ້ານຄ້າ. ຊ່ວຍປະສານງານ, ເຈລະຈາລາຄາ, ຈັດກວດສອບຄຸນນະພາບ ແລະ ເລືອກເສັ້ນທາງຂົນສົ່ງທີ່ວ່ອງໄວ ແລະ ປອດໄພ. ຫຼຸດຜ່ອນຕົ້ນທຶນ ແລະ ຄວາມຍຸ່ງຍາກ",
     contentEn:
@@ -21,6 +27,9 @@ export const blogPosts = [
     slug: "blog3",
     title: "ອອກແບບ ແລະ ພັດທະນາຊອບແວ",
     titleEn: "Software Design & Development",
+    image: "/blog-software.jpg",
+    imageAlt: "ຮູບການອອກແບບ ແລະ ພັດທະນາເວັບໄຊ",
+    imageAltEn: "Web design and software development",
     content:
       "ຮັບອອກແບບ ແລະ ພັດທະນາຊອບແວ, ເວັບໄຊ, ແອັບພລິເຄຊັນ ແລະ ລະບົບອີຄອມເມີຊທີ່ທັນສະໄໝ. ເນັ້ນການສະຖາປັດຕະຍະກຳລະບົບທີ່ຂະຫຍາຍໂຕໄດ້ງ່າຍ ພ້ອມປະສົມປະສານເຕັກໂນໂລຊີ AI ເພື່ອເພີ່ມປະສິດທິພາບ. ຕອບໂຈດການເຮັດທຸລະກິດຍຸກດິຈິຕອນ ໃຫ້ສາມາດດຳເນີນງານໄດ້ຢ່າງຮອບດ້ານ ແລະ ວ່ອງໄວ.",
     contentEn:
